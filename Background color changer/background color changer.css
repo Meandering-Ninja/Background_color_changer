@@ -1,0 +1,14 @@
+h1{
+    font-size: xx-large;
+    text-align: center;
+    position: relative;
+    top : 8rem;
+    
+}
+button{
+    text-align: center;
+    position: relative;
+    left: 40rem;
+    top: 20rem;
+    height: 100px
+}
