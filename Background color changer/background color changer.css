@@ -2,12 +2,12 @@ h1{
     font-size: xx-large;
     text-align: center;
     position: relative;
-    top : 8rem;
+    top: 8rem;
     
 }
-button{
+button{                                //Change the button appearance as per your choice.
     text-align: center;
-    position: relative;
+    position: relative;   
     left: 40rem;
     top: 20rem;
     height: 100px
